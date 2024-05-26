@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RobbinBouwmeester/ASMS_2024_DIA/HEAD)
+
 # ASMS_2024_DIA
 
 All the files for analysis are prepared from the raw files. Only if you want to follow the analysis from the start to the end first download the following files (repository: [pride/PXD028735](https://www.ebi.ac.uk/pride/archive/projects/PXD028735)):
